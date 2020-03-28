@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samuel D. Ihlenfeldt"
 description              : &description "Graduate Student at the University of Minnesota"
