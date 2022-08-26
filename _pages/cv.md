@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Statistics, Carleton College, 2014
+* Ph.D in Educational Measurement, University of Minnesota, 2023 (expected)
 
 Work experience
 ======
@@ -26,6 +25,10 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+Teaching experience
+======
+* 
   
 Skills
 ======
