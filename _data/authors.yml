@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+  name        : "Samuel D. Ihlenfeldt"
+  uri         : "https://sdihlenfeldt.github.io/"
+  email       : "ihlen010@umn.edu"
+  bio         : "A guy named Sam doing educational measurement."
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "@SDIhlenfeldt"
+  google_scholar : "Samuel D. Ihlenfeldt"
