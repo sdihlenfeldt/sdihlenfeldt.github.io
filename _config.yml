@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samuel D. Ihlenfeldt"
-description              : &description "Graduate Student at the University of Minnesota"
+description              : &description "Ph.D. candidate at the University of Minnesota"
 url                      : https://sdihlenfeldt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sdihlenfeldt/sdihlenfeldt.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=lgn8vrwAAAAJ&gmla=AJsN-F5c5gXgK_5CyM7VDN43QDlz--2cBZ2SqwD64iP36AjqeDqvwUoEt9VJNF7rt8eC0gBUaMhhcLmDCcMjK7kXXSUISt9LeM9uirO-RVC-wUGEBqfCMYk"
-  email            :
+  email            : "ihlen010@umn.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-3642-8407"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
