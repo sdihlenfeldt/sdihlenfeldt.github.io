@@ -9,17 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Click here to download a current copy of my CV! 
+
 Education
 ======
 * B.A. in Statistics, Carleton College, 2014
 * Ph.D in Educational Measurement, University of Minnesota, 2023 (expected)
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2017 - September 2020: Graduate Research Assistant
+  * University of Minnesota
+  * Researching 
+  * Supervisors: Dr. Joseph Rios and Dr. Michael Rodriguez
 
 * Fall 2015: Research Assistant
   * Github University
@@ -28,7 +30,19 @@ Work experience
   
 Teaching experience
 ======
-* 
+
+
+Professional affiliations
+======
+* Improving Educational Measurement Practices Lab
+  * Advisor: Dr. Joseph Rios
+
+* Minnesota Youth Development Research Group
+  * Advisor: Dr. Michael Rodriguez
+
+* National Council on Measurement in Education 
+
+* American Educational Research Association, Division D
   
 Skills
 ======
