@@ -23,10 +23,25 @@ Professional experience
   * Researching 
   * Supervisors: Dr. Joseph Rios and Dr. Michael Rodriguez
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Graduate Student Researcher
+University of Minnesota, Minneapolis, MN
+Department of Educational Psychology
+Advisor: Dr. Joseph Rios and Dr. Michael Rodriguez
+August 2017 – September 2020
+
+Research Intern/Contracted Researcher
+Minnesota Department of Education, Roseville, MN
+Statewide Testing Division
+August 2020 – May 2021
+Pearson
+Educational Portfolio, Clinical Assessment Division
+John P. Yackel and Pearson Assessment Internship
+August 2021 – May 2022
+Pearson
+Educational Portfolio, Clinical Assessment Division
+Contracted Researcher
+May 2022 – September 2022
+
   
 Teaching experience
 ======
