@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "A meta-analysis on the
+predictive validity of English
+language proficiency
+assessments for college
+admissions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /files/Paper5.pdf?raw=true
+excerpt: 'For institutions where English is the primary language of instruction, English assessments for
+admissions such as the Test of English as a Foreign Language (TOEFL) and International English
+Language Testing System (IELTS) give admissions decision-makers a sense of a student’s skills
+in academic English. Despite this explicit purpose, these exams have also been used for the
+practice of predicting academic success. In this study, we meta-analytically synthesized 132 effect
+sizes from 32 studies containing validity evidence of academic English assessments to determine
+whether different assessments (a) predicted academic success (as measured by grade point
+average [GPA]) and (b) did so comparably. Overall, assessments had a weak positive correlation
+with academic achievement (<i>r</i>=.231, <i>p</i><.001). Additionally, no significant differences were
+found in the predictive power of the IELTS and TOEFL exams. No moderators were significant,
+indicating that these findings held true across school type, school level, and publication type.
+Although significant, the overall correlation was low; thus, practitioners are cautioned from using
+standardized English-language proficiency test scores in isolation in lieu of a holistic application
+review during the admissions process.'
+date: 2021-02-02
+venue: 'Language Testing'
+citation: 'Ihlenfeldt, S. D., & Rios, J. A. (2022). Do admissions English assessments predict success in
+higher education? A meta-analysis. <i>Language Testing</i>. Advanced online publication.
+https://doi.org/10.1177/02655322221112364'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
