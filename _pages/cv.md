@@ -15,37 +15,42 @@ Education
 ======
 * B.A. in Statistics, Carleton College, 2014
 * Ph.D in Educational Measurement, University of Minnesota, 2023 (expected)
+  * Advisor: Dr. Joseph Rios and Dr. Michael Rodriguez
 
 Professional experience
 ======
-* August 2017 - September 2020: Graduate Research Assistant
+* Intern/Contracted Researcher
+  * Minnesota Department of Education, Roseville, MN
+  * Statewide Testing Division
+  * August 2020 – Present
+
+* Intern/Contracted Researcher
+  * John P. Yackel and Pearson Assessment Internship
+  * Pearson
+  * Clinical Assessment Division
+  * August 2021 – Present
+  
+* Graduate Student Researcher
   * University of Minnesota
-  * Researching 
-  * Supervisors: Dr. Joseph Rios and Dr. Michael Rodriguez
-
-Graduate Student Researcher
-University of Minnesota, Minneapolis, MN
-Department of Educational Psychology
-Advisor: Dr. Joseph Rios and Dr. Michael Rodriguez
-August 2017 – September 2020
-
-Research Intern/Contracted Researcher
-Minnesota Department of Education, Roseville, MN
-Statewide Testing Division
-August 2020 – May 2021
-Pearson
-Educational Portfolio, Clinical Assessment Division
-John P. Yackel and Pearson Assessment Internship
-August 2021 – May 2022
-Pearson
-Educational Portfolio, Clinical Assessment Division
-Contracted Researcher
-May 2022 – September 2022
-
+  * Department of Educational Psychology
+  * August 2017 – September 2020
   
 Teaching experience
 ======
+* Visiting Instructor in Statistics
+  * Carleton College
+  * Introduction to Statistics 
+  * Spring, 2021
 
+* Instructor of Record
+  * University of Minnesota, College of Education and Human Development
+  * Basic and Applied Statistics (Spring and Fall, 2020, Spring, 2021)
+University of Minnesota, College of Education and Human Development
+Teaching Assistant
+Basic and Applied Statistics (Spring and Fall, 2019; Summer, 2020)
+University of Minnesota, College of Education and Human Development
+Teaching Assistant
+Introductory Statistical Methods (Fall, 2018)
 
 Professional affiliations
 ======
