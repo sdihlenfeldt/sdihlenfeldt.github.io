@@ -79,10 +79,6 @@ Select conference presentations and talks are listed here. For a full list, see 
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Invited talks
-======
-
-
 Professional service
 =====
 * NCME Graduate Student Issues Committee
