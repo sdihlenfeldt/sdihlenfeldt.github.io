@@ -73,7 +73,7 @@ Publications
   
 Conferences presentations and invited talks
 ======
-Select conference presentations and talks are listed here. For a full list, see my CV.
+Select conference presentations and talks are listed here. For a full list, see my <a href="https://github.com/sdihlenfeldt/sdihlenfeldt.github.io/blob/master/files/Sam%20Ihlenfeldt%20CV.pdf?raw=true">CV</a>.
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
