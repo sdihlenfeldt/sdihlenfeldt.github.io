@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to download a current copy of my CV! 
+<a href="sdihlenfeldt.github.io/files/Sam Ihlenfeldt CV.pdf?raw=true">Click here to download a current copy of my CV</a>! 
 
 Education
 ======
