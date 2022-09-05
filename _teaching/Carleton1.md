@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Northfield, MN"
 ---
 
-Course Description
+Course description
 =====
 A description of the course from the Carleton College website:
 
