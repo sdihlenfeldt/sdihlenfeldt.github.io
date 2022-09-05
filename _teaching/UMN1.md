@@ -8,6 +8,8 @@ date: 2020-01-01
 location: "Minneapolis, MN"
 ---
 
+Course description
+=====
 A description of the course from the University of Minnesota website:
 
 <blockquote>EPSY 3264 is an undergraduate introduction to statistics and is not a substitute for an AP Statistics course. It can be taught over an entire high school semester or academic year.
