@@ -1,6 +1,6 @@
 ---
-title: "Cultivating research interests in educational
-measurement"
+title: "Cultivating Research Interests in Educational
+Measurement"
 collection: talks
 type: "Invited talk"
 permalink: /talks/invitedtalk1
