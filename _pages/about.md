@@ -22,4 +22,3 @@ Have a look around this site using the navigation above, and feel free to send m
   
 <p>Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work: The process and best practices for effective communication. <em>Educational Measurement: Issues and Practice, 31</em>(2), 21-26.</p>
   
-</div>
