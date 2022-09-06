@@ -13,8 +13,6 @@ Welcome to my website! My name is Sam Ihlenfeldt (or Samuel D. Ihlenfeldt on pub
 Part of the process of fair assessment is communicating test results. If the results of a test (and their intended uses and interpretations) are not communicated properly, any other efforts to validate those uses and interpretations are undermined. For my dissertation, titled "Creating Score Reports for Parents who cannot Communicate Fluently in English", I will be using funds from the NCME Mission Fund Grant to conduct experiemental research with parents who speak English, Hmong, Spanish, and Somali. It is my hope that principles of test accommodation literature can be applied to generate score reports that better communicate the intended uses (and limitations) of large-scale standardized tests.
 
 Have a look around this site using the navigation above, and feel free to send me a message on Twitter or an email if you have any questions. If you are interested, the following papers have been instrumental in guiding my own research:
-
-<div style=“text-indent: -36px; padding-left: 36px;”>
   
 <p>Randall, J. (2021). “Color‐Neutral” Is Not a Thing: Redefining Construct Definition and Representation through a Justice‐Oriented Critical Antiracist Lens. <em>Educational Measurement: Issues and Practice, 40</em>(4), 82-90.</p>
    
