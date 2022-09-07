@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 * B.A. in Statistics, Carleton College, 2014
-* Ph.D in Educational Measurement, University of Minnesota, 2023 (expected)
+* Ph.D. in Educational Measurement, University of Minnesota, 2023 (expected)
   * Advisor: Dr. Joseph Rios and Dr. Michael Rodriguez
 
 Professional experience
@@ -94,10 +94,6 @@ Awards and honors
   * NCME
   * April 2022
 
-* Quantitative Methods in Education Student Leadership Award
-  * University of Minnesota
-  * May 2020
-
 * College of Education and Human Development Hauge Fellowship
   * University of Minnesota
   * April 2021
@@ -105,3 +101,7 @@ Awards and honors
 * Quantitative Methods in Education Teaching Award
   * University of Minnesota
   * May 2021
+
+* Quantitative Methods in Education Student Leadership Award
+  * University of Minnesota
+  * May 2020
