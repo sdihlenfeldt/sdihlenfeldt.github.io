@@ -16,8 +16,6 @@ Have a look around this site using the navigation above, and feel free to send m
   
 <p>Randall, J. (2021). “Color‐Neutral” Is Not a Thing: Redefining Construct Definition and Representation through a Justice‐Oriented Critical Antiracist Lens. <em>Educational Measurement: Issues and Practice, 40</em>(4), 82-90.</p>
    
-<p>Ryan, J. M. (2006). Practices, issues, and trends in student test score reporting. In S. M. Downing & T. M. Haladyna (Eds.), <em>Handbook of test development</em> (pp. 677–710). Erlbaum.</p>
-
 <p>Zapata-Rivera, D., & Katz, I. R. (2014). Keeping your audience in mind: Applying audience analysis to the design of interactive score reports. <em> Assessment in Education: Principles, Policy & Practice, 21</em>(4), 442-463.</p>
   
 <p>Zenisky, A. L., & Hambleton, R. K. (2012). Developing test score reports that work: The process and best practices for effective communication. <em>Educational Measurement: Issues and Practice, 31</em>(2), 21-26.</p>
