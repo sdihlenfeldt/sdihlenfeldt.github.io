@@ -20,6 +20,11 @@ Education
 
 Professional experience
 ======
+* Intern/Research Analyst
+  * Saint Paul Public Schools
+  * Department of Research, Evaluation, and Assessment
+  * August 2022 – Present
+
 * Intern/Contracted Worker
   * John P. Yackel and Pearson Assessment Internship
   * Pearson
