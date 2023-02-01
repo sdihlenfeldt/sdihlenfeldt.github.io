@@ -4,7 +4,7 @@ collection: talks
 type: "Conference presentation"
 permalink: /talks/conferencetalk3
 venue: "National Council of Measurement in Education Annual Meeting"
-date: 2021-06-10
+date: 2023-04-15
 location: "Chicago, IL"
 ---
 
