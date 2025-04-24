@@ -20,6 +20,10 @@ Education
 
 Professional experience
 ======
+* Research Associate
+  * Lyons Assessment Consulting
+  * July 2023 – Present
+
 * Intern/Research Analyst
   * Saint Paul Public Schools
   * Department of Research, Evaluation, and Assessment
