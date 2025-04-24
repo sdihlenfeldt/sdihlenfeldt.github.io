@@ -16,7 +16,7 @@ Education
 ======
 * B.A. in Statistics, Carleton College, 2014
 * Ph.D. in Educational Measurement, University of Minnesota, 2023 (expected)
-  * Advisor: Dr. Joseph Rios and Dr. Michael Rodriguez
+  * Advisor: Dr. Michael Rodriguez
 
 Professional experience
 ======
